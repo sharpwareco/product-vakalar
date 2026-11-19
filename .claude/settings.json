@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Edit(./ciktilar/**)",
+      "Write(./ciktilar/**)",
+      "WebSearch",
+      "WebFetch",
+      "Skill"
+    ],
+    "deny": [
+      "Read(./vaka/*-adimlar.md)"
+    ]
+  }
+}
