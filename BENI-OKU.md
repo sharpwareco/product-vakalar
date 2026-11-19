@@ -44,7 +44,7 @@ Claude-saka terminal komutu ile Claude Code CLI'ı açın ve şunu yazın:
 ```
 
 Listede `problem-framing-canvas`, `incoming-request-advisor`, `prd-development` ve
-`lifecycle-play-advisor` görünüyorsa hazırsınız. Görünmüyorsa /reloadskills komutunu deneyebilirsiniz. Hala görünmüyorsa eğitmene haber
+`lifecycle-play-advisor` görünüyorsa hazırsınız. Görünmüyorsa /reload-skills komutunu deneyebilirsiniz. Hala görünmüyorsa eğitmene haber
 verin.
 
 ## 4. Bir bölüm nasıl çalışılır
