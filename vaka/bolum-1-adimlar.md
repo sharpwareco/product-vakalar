@@ -15,7 +15,7 @@ skill'ini kullan. Bu problemi çerçevele: Teknocan Kampanya ve Tarife
 Asistanı'nın çağrı merkezindeki haftalık kullanımı altı ayda %38'den %11'e
 düştü. Yönetim üç çözüme çoktan çapalanmış durumda: oyunlaştırma ve KPI,
 daha büyük bir modele geçmek ve daha fazla doküman yüklemek. Bu çözümleri
-sorgula. Bitince çıktıyı ciktilar/ klasörüne kaydet.
+sorgula. Bana sorman gereken soruları sor. Bitince çıktıyı ciktilar/ klasörüne kaydet.
 ```
 
 Beklenen çıktı: Look Inward / Look Outward / Reframe bölümleri, yeniden yazılmış
