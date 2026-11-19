@@ -13,9 +13,8 @@ kavramları vakaların içinde karşınıza çıkacak.
 ## 1. Ön koşullar
 
 - VS Code kurulu olmalı.
-- VS Code'da **Claude Code** eklentisi kurulu olmalı ve Claude hesabınızla giriş
-  yapmış olmalısınız.
-
+- **Claude Code Saka** eklentisi kurulu olmalı.
+  
 ## 2. Klasörü açın
 
 1. Bu klasörü bilgisayarınızda bir yere çıkarın (ör. Belgeler).
@@ -38,7 +37,7 @@ Eğitmeniniz skill'leri klasöre koymadıysa:
 3. Doğru yerleştiyse şu dosya var olmalı:
    `.claude/skills/problem-framing-canvas/SKILL.md`
 
-Claude Code panelini açın ve şunu yazın:
+Claude-saka terminal komutu ile Claude Code CLI'ı açın ve şunu yazın:
 
 ```text
 Bu klasörde hangi skill'ler yüklü? Sadece isimlerini listele.
@@ -50,7 +49,7 @@ verin.
 
 ## 4. Bir bölüm nasıl çalışılır
 
-1. Claude Code panelinde `/clear` yazarak temiz bir sohbet başlatın.
+1. Claude Code CLI'da `/clear` yazarak temiz bir sohbet başlatın.
 2. `vaka/` klasöründen bölümün iki dosyasını yan yana açın:
     - `bolum-1.md`: durum ve vaka malzemesi. Önce bunu okuyun (5 dk).
     - `bolum-1-adimlar.md`: kullanacağınız promptlar ve tartışma soruları.
