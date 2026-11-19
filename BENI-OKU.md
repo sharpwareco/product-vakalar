@@ -40,11 +40,11 @@ Eğitmeniniz skill'leri klasöre koymadıysa:
 Claude-saka terminal komutu ile Claude Code CLI'ı açın ve şunu yazın:
 
 ```text
-Bu klasörde hangi skill'ler yüklü? Sadece isimlerini listele.
+"Bu klasörde hangi skill'ler yüklü? Sadece isimlerini listele." yazın veya /skills komutunu çalıştırın.
 ```
 
 Listede `problem-framing-canvas`, `incoming-request-advisor`, `prd-development` ve
-`lifecycle-play-advisor` görünüyorsa hazırsınız. Görünmüyorsa eğitmene haber
+`lifecycle-play-advisor` görünüyorsa hazırsınız. Görünmüyorsa /reloadskills komutunu deneyebilirsiniz. Hala görünmüyorsa eğitmene haber
 verin.
 
 ## 4. Bir bölüm nasıl çalışılır
